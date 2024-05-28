@@ -1,0 +1,17 @@
+{
+    "tags": {
+        "allowUnknownTags": true
+    },
+    "source": {
+        "include": ["./CustomHashTable"]
+        
+    },
+    "opts": {
+        "recurse": true,
+        "destination": "./docs"
+    },
+    "templates": {
+        "cleverLinks": false,
+        "monospaceLinks": false
+    }
+}
